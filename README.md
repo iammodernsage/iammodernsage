@@ -4,12 +4,11 @@
 
 # Get to know about me
 
--------------------------
-
 - I am Bhavesh Verma, a Cybersecurity Researcher & an Open Source Developer. Previously, I was a Marketer & a Market Research Consultant.
 - I have written two books in the field of marketing; Fundamentals of Digital Marketing, & Branding: The Key to Modern Business.
 
-<div align="center"> <img src="https://lottiefiles.com/free-animation/rikimo-nGmgPlOHju">
+--------------------------
+<div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhsejJ3czE5OXNhY2NuMzdqdnptYzA0Z2h3aWcyMjF5N2V1cHBmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7wJduRTMF9WCv7JeP/giphy.gif">
 <!--
 **iammodernsage/iammodernsage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
