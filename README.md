@@ -2,7 +2,14 @@
 
 <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk5ZzRkcm5vMzh5MnFqcnRkbHl0M2JtdGJ4dW1uM3IxYWVqamFudSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="500" alt="Welcome to Bhavesh Verma's GitHub profile">
 
-# About Me
+# Get to know about me
+
+-------------------------
+
+- I am Bhavesh Verma, a Cybersecurity Researcher & an Open Source Developer. Previously, I was a Marketer & a Market Research Consultant.
+- I have written two books in the field of marketing; Fundamentals of Digital Marketing, & Branding: The Key to Modern Business.
+
+<div align="center"> <img src="https://lottiefiles.com/free-animation/rikimo-nGmgPlOHju">
 <!--
 **iammodernsage/iammodernsage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
