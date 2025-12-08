@@ -1,4 +1,15 @@
-# <div align="center"> <img src="https://lottie.host/547460a2-84a3-48ea-9e4c-22aa62694614/Xijo7BPK2I.lottie"> <style> Welcome to my GitHub Profile! <img src="https://lottie.host/547460a2-84a3-48ea-9e4c-22aa62694614/Xijo7BPK2I.lottie">
+# <div align="center"> <svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      <style>
+       @import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap');
+</style>;
+    </style>
+  </defs>
+  <text x="50%" y="60%" text-anchor="middle" fill="#667eea" font-size="48" font-family="Bitcount Prop Single, bold">
+    Welcome to my Profile!
+  </text>
+</svg>
 
 <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk5ZzRkcm5vMzh5MnFqcnRkbHl0M2JtdGJ4dW1uM3IxYWVqamFudSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="500" alt="Welcome to Bhavesh Verma's GitHub profile">
 
