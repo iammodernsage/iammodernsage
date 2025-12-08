@@ -17,6 +17,8 @@ The most important aspect of my job is to make sure that every individual is equ
 
 :point_right: I am open to collaborating with FOSS for their pentesting requirements, reach out to me at [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/saintdomain)
 
+<div align="center"> <img src="assets/CareerPath.PNG">
+
 --------------------------
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=900&size=39&pause=1000&color=001EFF&background=FCEE0C&center=true&vCenter=true&repeat=false&width=630&height=60&lines=Work+Goals+for+2026)](https://git.io/typing-svg)
