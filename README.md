@@ -2,11 +2,11 @@
   <defs>
     <style>
       <style>
-       @import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap');
 </style>;
     </style>
   </defs>
-  <text x="50%" y="60%" text-anchor="middle" fill="#667eea" font-size="48" font-family="Bitcount Prop Single, bold">
+  <text x="50%" y="60%" text-anchor="middle" fill="#667eea" font-size="48" font-family="Bitcount_Prop_Single, bold">
     Welcome to my Profile!
   </text>
 </svg>
