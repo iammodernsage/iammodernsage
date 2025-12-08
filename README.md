@@ -2,7 +2,7 @@
   <defs>
     <style>
       <style>
-        @import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap');
+        @import url("https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap");
 </style>;
     </style>
   </defs>
