@@ -1,15 +1,4 @@
-# <div align="center"> <svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      <style>
-        @import url("https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap");
-</style>;
-    </style>
-  </defs>
-  <text x="50%" y="60%" text-anchor="middle" fill="#667eea" font-size="48" font-family="Bitcount_Prop_Single, bold">
-    Welcome to my Profile!
-  </text>
-</svg>
+# <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&weight=600&size=45&pause=1000&width=435&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk5ZzRkcm5vMzh5MnFqcnRkbHl0M2JtdGJ4dW1uM3IxYWVqamFudSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="500" alt="Welcome to Bhavesh Verma's GitHub profile">
 
