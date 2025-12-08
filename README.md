@@ -1,8 +1,10 @@
-<div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&weight=600&size=39&pause=1000&color=FD8A8A&center=true&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&weight=600&size=39&pause=1000&color=FD8A8A&center=true&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk5ZzRkcm5vMzh5MnFqcnRkbHl0M2JtdGJ4dW1uM3IxYWVqamFudSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="500" alt="Welcome to Bhavesh Verma's GitHub profile">
 
-:star: [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto&weight=600&size=30&pause=1000&color=9EA1D4&center=true&vCenter=true&repeat=false&width=600&lines=Get+to+know+about+me)](https://git.io/typing-svg) :star:
+---------------
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=33&pause=1000&color=3B0855&background=F8FF51&center=true&vCenter=true&repeat=false&width=600&lines=Get+to+know+about+me)](https://git.io/typing-svg)
 
 :point_right: I am Bhavesh Verma, a Cybersecurity Researcher & an Open Source Developer. Previously, I was a Marketer & a Market Research Consultant.
 
