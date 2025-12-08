@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&weight=600&size=39&pause=1000&color=FD8A8A&center=true&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=900&size=45&pause=1000&color=EE227D&background=F8FF51&center=true&vCenter=true&repeat=false&width=630&height=60&lines=Welcome+to+my+Profile)](https://git.io/typing-svg)
 
 <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk5ZzRkcm5vMzh5MnFqcnRkbHl0M2JtdGJ4dW1uM3IxYWVqamFudSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYC0LajbaPoEADu/giphy.gif" width="500" alt="Welcome to Bhavesh Verma's GitHub profile">
 
@@ -18,3 +18,5 @@ The most important aspect of my job is to make sure that every individual is equ
 :point_right: I am open to collaborating with FOSS for their pentesting requirements, reach out to me at [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/saintdomain)
 
 --------------------------
+
+<div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnptMjQ0dzV3dnJlc3hhYTZ1NjFpa2liaWpqeW55bXIwczdsZ3B6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7wJduRTMF9WCv7JeP/giphy.gif">
