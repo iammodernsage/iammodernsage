@@ -10,9 +10,9 @@
 
 :point_right: I have written two books in the field of marketing; [Fundamentals of Digital Marketing](https://www.amazon.in/Fundamentals-Digital-Marketing-Bhavesh-Verma-ebook/dp/B0BTCP7J68), & [Branding: The Key to Modern Business.](https://www.amazon.in/Branding-Modern-Business-Bhavesh-Verma-ebook/dp/B0C6BQSDK2)
 
-<div align="center"> <img src="/iammodernsage/assets/A86A1A8A-26A4-48E0-99AE-839A4558DBD3.PNG> </div>
+<div align="center"> <img src="/assets/A86A1A8A-26A4-48E0-99AE-839A4558DBD3.PNG"> </div>
 
-<div align+"center> <img src="/iammodernsage/assets/8671B645-B8FC-4A2B-B1E3-66B30ABA28A5.PNG> </div>
+<div align="center"> <img src="/assets/8671B645-B8FC-4A2B-B1E3-66B30ABA28A5.PNG"> </div>
 
 :point_right: I occasionally write about trends & recent updates in the realms of [Cybersecurity](https://alphacyberlabs.substack.com)
 
@@ -21,7 +21,7 @@ The most important aspect of my job is to make sure that every individual is equ
 
 :point_right: I am open to collaborating with FOSS for their pentesting requirements, reach out to me at [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/saintdomain)
 
-<div align="center"> <img src="assets/CareerPath.PNG">
+<div align="center"> <img src="assets/CareerPath.PNG"> </div>
 
 --------------------------
 
