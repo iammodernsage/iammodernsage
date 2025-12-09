@@ -10,6 +10,10 @@
 
 :point_right: I have written two books in the field of marketing; [Fundamentals of Digital Marketing](https://www.amazon.in/Fundamentals-Digital-Marketing-Bhavesh-Verma-ebook/dp/B0BTCP7J68), & [Branding: The Key to Modern Business.](https://www.amazon.in/Branding-Modern-Business-Bhavesh-Verma-ebook/dp/B0C6BQSDK2)
 
+<div align="center"> <img src="/iammodernsage/assets/A86A1A8A-26A4-48E0-99AE-839A4558DBD3.PNG> </div>
+
+<div align+"center> <img src="/iammodernsage/assets/8671B645-B8FC-4A2B-B1E3-66B30ABA28A5.PNG> </div>
+
 :point_right: I occasionally write about trends & recent updates in the realms of [Cybersecurity](https://alphacyberlabs.substack.com)
 
 :point_right: I am on a journey to make Internet a safe place & a reliable companion for individuals in their day to day lives. With increasing individual digital footprint, it becomes crucial to protect personal data.
