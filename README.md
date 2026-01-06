@@ -27,4 +27,6 @@ The most important aspect of my job is to make sure that every individual is equ
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=900&size=39&pause=1000&color=001EFF&background=FCEE0C&center=true&vCenter=true&repeat=false&width=630&height=60&lines=Work+Goals+for+2026)](https://git.io/typing-svg)
 
+<div align="center"> <img src="assets/GOALS.PNG"> <div>
+
 <div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnptMjQ0dzV3dnJlc3hhYTZ1NjFpa2liaWpqeW55bXIwczdsZ3B6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7wJduRTMF9WCv7JeP/giphy.gif">
