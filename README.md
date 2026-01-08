@@ -22,6 +22,7 @@ The most important aspect of my job is to make sure that every individual is equ
 :point_right: I am open to collaborating with FOSS for their pentesting requirements, reach out to me at [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/saintdomain)
 
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bhaveshverma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhaveshverma?trk=profile-badge">Bhavesh Verma</a></div>
 
 
