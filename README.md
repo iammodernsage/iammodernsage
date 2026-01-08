@@ -21,6 +21,10 @@ The most important aspect of my job is to make sure that every individual is equ
 
 :point_right: I am open to collaborating with FOSS for their pentesting requirements, reach out to me at [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/saintdomain)
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="bhaveshverma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhaveshverma?trk=profile-badge">Bhavesh Verma</a></div>
+
+
 <div align="center"> <img src="assets/CareerPath.PNG"> </div>
 
 --------------------------
@@ -28,5 +32,7 @@ The most important aspect of my job is to make sure that every individual is equ
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=900&size=39&pause=1000&color=001EFF&background=FCEE0C&center=true&vCenter=true&repeat=false&width=630&height=60&lines=Work+Goals+for+2026)](https://git.io/typing-svg)
 
 <div align="center"> <img src="assets/GOALS.PNG"> <div>
+
+-----------------------------
 
 <div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnptMjQ0dzV3dnJlc3hhYTZ1NjFpa2liaWpqeW55bXIwczdsZ3B6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7wJduRTMF9WCv7JeP/giphy.gif">
